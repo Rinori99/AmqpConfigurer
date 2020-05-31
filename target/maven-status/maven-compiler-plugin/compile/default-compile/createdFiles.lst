@@ -1,0 +1,4 @@
+server/amqp_integration/QueuesConfiguration.class
+server/amqp_integration/ExchangesConfiguration.class
+server/amqp_integration/BindingsConfiguration.class
+server/AmqpConfigurerApplication.class
